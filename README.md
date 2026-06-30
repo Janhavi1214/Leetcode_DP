@@ -1,1 +1,1 @@
-Leetcode questions of Dynamic Programming
+Leetcode questions of Dynamic Programming (DP)
